@@ -1,9 +1,9 @@
 <html>
 <head>
-developer1
+developer
 </head>
 
 <body>
-hi this is developer 1 from devops from bangalore
+hi this is developer  from devops 
 </body>
 </html>
